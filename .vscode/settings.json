@@ -1,0 +1,45 @@
+{
+  "editor.renderWhitespace": "all",
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.formatOnSave": true,
+  "git.enableSmartCommit": true,
+  "explorer.confirmDelete": false,
+  "typescript.validate.enable": false,
+  "prettier.eslintIntegration": true,
+  "eslint.autoFixOnSave": true,
+  "eslint.packageManager": "yarn",
+  "eslint.run": "onType",
+  "prettier.singleQuote": true,
+  "prettier.semi": true,
+  "prettier.trailingComma": "all",
+  "javascript.suggestionActions.enabled": false,
+  "window.zoomLevel": -1,
+  "editor.tabSize": 2,
+  "explorer.confirmDragAndDrop": false,
+  "todohighlight.keywords": [
+    {
+      "text": "console.log",
+      "backgroundColor": "green"
+    },
+    {
+      "text": "NOTE:",
+      "backgroundColor": "orange"
+    },
+    {
+      "text": "console.error",
+      "backgroundColor": "blue"
+    },
+    {
+      "text": "/* eslint-disable-next-line */",
+      "backgroundColor": "red"
+    },
+    {
+      "text": "/* eslint-disable */",
+      "backgroundColor": "red"
+    },
+    {
+      "text": "// eslint-disable-next-line",
+      "backgroundColor": "yellow"
+    }
+  ]
+}
